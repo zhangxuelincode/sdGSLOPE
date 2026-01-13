@@ -1,2 +1,3 @@
-# Codes for our paper on Group-wise Error-Controlled Feature Selection, submitted.
 
+
+Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection
